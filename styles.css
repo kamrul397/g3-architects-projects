@@ -146,6 +146,12 @@ main>section {
     max-width: 540px;
 }
 
+/* sponsor related style */
+.sponsor-info{
+    max-width: 540px;
+    margin: 50px auto;
+}
+
 
 /* responsive section */
 @media screen and (max-width: 576px) {
